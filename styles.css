@@ -1,0 +1,39 @@
+p{
+  margin: 10px;
+  color: #0000d0;
+}
+
+.title{
+  font-size: 50px;
+  font-family: lato;
+  margin: 30px;
+  margin-top: 10px;
+}
+
+.name{
+  font-size: 30px;
+  font-family: lato;
+  color: #0000b0;
+}
+
+.div-title{
+  text-align: center;
+}
+
+.photo{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50px;
+}
+
+.background{
+  background-color: #e0e0e0;
+  width: 500px;
+  padding: 10px;
+}
+
+.info{
+  background-color: #f7f7f7;
+}
+
